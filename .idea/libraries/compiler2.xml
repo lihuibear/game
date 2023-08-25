@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="compiler2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WaterDropAttack/frameworks/cocos2d-html5/tools/compiler/compiler.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
